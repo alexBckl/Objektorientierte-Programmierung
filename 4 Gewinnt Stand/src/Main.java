@@ -7,6 +7,7 @@ public class Main {
 	
 		while(true) {
 			dieSpielsteuerung.spiele();
+			//Test
 		}
 	}
 
